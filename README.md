@@ -2,7 +2,6 @@
 	<br />
 <b>最后更新日期：2016-05-07</b>
 </p>
-<a href="http://www.66a.cm/" target="_blank">官网</a><br />
 <a href="https://github.com/male110/GoMvc/archive/master.zip">下载GoMvc</a><br />
 <p>
 	有任何问题，可加QQ群：184572648，我基本上每天都在线的

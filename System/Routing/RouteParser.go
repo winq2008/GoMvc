@@ -1,7 +1,7 @@
 package Routing
 
 import (
-	"System/Routing/PathSegmentType"
+	"github.com/winq2008/GoMvc/System/Routing/PathSegmentType"
 	"errors"
 	"strings"
 )

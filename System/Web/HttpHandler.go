@@ -1,8 +1,8 @@
 package Web
 
 import (
-	. "System/Config"
-	"System/Routing"
+  . "github.com/winq2008/GoMvc/System/Config"
+	"github.com/winq2008/GoMvc/System/Routing"
 	"fmt"
 	"mime"
 	"net/http"

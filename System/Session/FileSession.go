@@ -1,7 +1,7 @@
 package Session
 
 import (
-	. "System/Log"
+  . "github.com/winq2008/GoMvc/System/Log"
 	"io/ioutil"
 	"net/http"
 	"os"

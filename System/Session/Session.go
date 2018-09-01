@@ -1,8 +1,8 @@
 package Session
 
 import (
-	"System/Config"
-	. "System/Log"
+	"github.com/winq2008/GoMvc/System/Config"
+  . "github.com/winq2008/GoMvc/System/Log"
 	"crypto/rand"
 	"encoding/hex"
 	"net/http"

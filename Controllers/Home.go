@@ -1,8 +1,8 @@
 package Controllers
 
 import (
-	"Model"
-	"System/Web"
+	"GoMvc/Model"
+	"github.com/winq2008/GoMvc/System/Web"
 	"fmt"
 )
 

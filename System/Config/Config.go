@@ -1,7 +1,7 @@
 package Config
 
 import (
-	. "System/Log"
+  . "github.com/winq2008/GoMvc/System/Log"
 	"encoding/xml"
 	"io"
 	"os"

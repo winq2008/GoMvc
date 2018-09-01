@@ -2,10 +2,10 @@
 package main
 
 import (
-	_ "Areas/Admin/Controllers"
-	_ "Controllers"
-	. "System/Routing"
-	. "System/Web"
+	_ "GoMvc/Areas/Admin/Controllers"
+	_ "GoMvc/Controllers"
+	. "github.com/winq2008/GoMvc/System/Routing"
+	. "github.com/winq2008/GoMvc/System/Web"
 	"fmt"
 	"runtime"
 	"runtime/debug"

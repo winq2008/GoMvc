@@ -1,11 +1,11 @@
 package Web
 
 import (
-	"System/Config"
-	"System/Log"
-	"System/Session"
-	"System/ViewEngine"
-	"System/fsnotify"
+	"github.com/winq2008/GoMvc/System/Config"
+	"github.com/winq2008/GoMvc/System/Log"
+	"github.com/winq2008/GoMvc/System/Session"
+	"github.com/winq2008/GoMvc/System/ViewEngine"
+	"github.com/winq2008/GoMvc/System/fsnotify"
 	"fmt"
 	"net/http"
 	"path"

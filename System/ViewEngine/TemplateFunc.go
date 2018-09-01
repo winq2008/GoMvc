@@ -1,11 +1,11 @@
 package ViewEngine
 
 import (
-	"System/Config"
-	"System/Log"
+	"github.com/winq2008/GoMvc/System/Config"
+	"github.com/winq2008/GoMvc/System/Log"
 	"bytes"
 	"fmt"
-	. "html/template"
+  . "html/template"
 	"io/ioutil"
 	"math"
 	"math/rand"

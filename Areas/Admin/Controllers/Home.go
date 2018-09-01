@@ -1,7 +1,7 @@
 package Controllers
 
 import (
-	"System/Web"
+	"github.com/winq2008/GoMvc/System/Web"
 	"net/http"
 )
 

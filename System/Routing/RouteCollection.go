@@ -1,7 +1,7 @@
 package Routing
 
 import (
-	. "System/Log"
+  . "github.com/winq2008/GoMvc/System/Log"
 	"errors"
 	"strings"
 )

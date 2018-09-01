@@ -1,7 +1,7 @@
 package Session
 
 import (
-	. "System/Log"
+  . "github.com/winq2008/GoMvc/System/Log"
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"

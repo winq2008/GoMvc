@@ -1,8 +1,8 @@
 package ViewEngine
 
 import (
-	"System/Config"
-	"System/Function"
+	"github.com/winq2008/GoMvc/System/Config"
+	"github.com/winq2008/GoMvc/System/Function"
 	"errors"
 	"html/template"
 	"io"

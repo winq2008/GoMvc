@@ -1,14 +1,14 @@
 package Web
 
 import (
-	"System/ViewEngine"
+	"github.com/winq2008/GoMvc/System/ViewEngine"
 	"fmt"
 	"net/http"
 	"strconv"
 	"runtime/debug"
 	"html/template"
 	"strings"
-	"System/Config"
+	"github.com/winq2008/GoMvc/System/Config"
 )
 
 /*定义一些通用的接口*/
